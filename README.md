@@ -11,7 +11,7 @@ I'm a Web Developer, Web designer, and Writer who currently is studying Cloud En
 - 🌱 I’m currently learning Cloud Engineering. I am also fluent in HTML, CSS and JavaScript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: DevOps, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing donaldesohandi@gmail.com.
+- 📫 You can contact me by emailing donaldesohandi@gmail.com.
 
 ---
 
