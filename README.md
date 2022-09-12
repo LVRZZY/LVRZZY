@@ -8,7 +8,7 @@ I'm a Web Developer, Web designer, and Writer who currently is studying Cloud En
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Cloud Engineering. I am also fluent in HTML, CSS and JavaScript.
+- 🌱 I’m currently learning Cloud Engineering. I am also fluent in HTML, CSS and JavaScript. I write also.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: DevOps, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing donaldesohandi@gmail.com.
