@@ -7,10 +7,15 @@
 🚀 Aspiring Cloud & DevOps Engineer passionate about automation, scalability, and reliability.
 
 💻 Skilled in AWS, GCP, Docker, Kubernetes, Terraform, Ansible, Jenkins
+
 🌐 Web development with HTML, CSS, and JavaScript.
+
 ⚡ Strong foundation in Linux, Bash scripting, and CI/CD pipelines.
+
 📊 Experienced in data entry & data management, bringing accuracy and attention to detail.
+
 🌱 Currently building projects in cloud infrastructure & automation to sharpen real-world skills.
+
 📫 Let’s connect: [www.linkedin.com/in/donald-archibong-6143bb246]
 
 
